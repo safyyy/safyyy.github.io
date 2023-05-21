@@ -1,0 +1,13 @@
+{
+"data":
+[
+{
+"libelle":"cable",
+"stock":1,
+"price":12.12,
+"photo":"image/cable.jpg",
+"datefabrication":"31/12/2023",
+"dateexpiration":"31/12/2025"
+}
+]
+}
